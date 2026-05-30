@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsearse",
+        "uuid": 1662864,
+        "checksum": "ecgeg"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
